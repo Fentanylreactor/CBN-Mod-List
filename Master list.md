@@ -52,7 +52,18 @@ A large aggregation of mods, covers everything.
 
 [W40k weapons and armor](https://github.com/kingcet/WH40K-Imperial-Armoury) [Armor] [Weapons] 
 
+[SzQ mods](https://github.com/SzQ1/)
 
+[Medieval mod reborn](https://github.com/chaosvolt/cdda_medieval_mod_reborn)
+
+[Stamina Regen Buff](https://github.com/chaosvolt/cdda-stamina-regen-buff)
+[Difficulty] [Overhaul] [Utility] 
+
+[Arcana and its patch mods](https://github.com/chaosvolt/cdda-arcana-mod)
+[Weapons] [Tech] [Magic] [Enemies] [Armor] [Quests] [Vehicles] [Profession][Mapgen] 
+
+[Tank Mod revived](https://github.com/chaosvolt/cdda-tankmod-revived-mod)
+[Vehicles] [Mapgen] 
 
 
 
