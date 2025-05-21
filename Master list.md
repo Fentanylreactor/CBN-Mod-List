@@ -40,4 +40,21 @@ A large aggregation of mods, covers everything.
 
 [Thogs Vehicles](https://github.com/caninmyham/Thogs-Vehicles) [Vehicles] 
 
+[Soda mod](https://github.com/thelonestander/Lones-soda-mod)
+
+[Mountain dew](https://github.com/goldendragon900/cdda-bn-mountain-dew)
+
+[Lones Tech and Weapons](https://github.com/thelonestander/Lones-Tech-and-Weapons-mod) [Tech] [Weapons] [Enemies] 
+
+[Hope in the dark](https://github.com/10taiSenshi/Hope-in-the-Dark) [Profession]
+
+[Noct's Cata++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod) [Profession][CBM] [Mapgen] [Utility] [Enemies] [Quests] [Armor] [Weapons] [Tech] 
+
+[W40k weapons and armor](https://github.com/kingcet/WH40K-Imperial-Armoury) [Armor] [Weapons] 
+
+
+
+
+
+
 
