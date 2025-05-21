@@ -65,6 +65,17 @@ A large aggregation of mods, covers everything.
 [Tank Mod revived](https://github.com/chaosvolt/cdda-tankmod-revived-mod)
 [Vehicles] [Mapgen] 
 
+[AV lethalized CDDA](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AV_lethalzed_cdda) 
+
+[Abrahams Recipes](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Abrahms_Recipes)
+
+[AdvancedGear](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AdvancedGear_CDDA_Mod)
+
+[Advanced Technologies](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Advanced_Technologies)
+
+[Animatronics](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Animatronics)
+
+
 
 
 
