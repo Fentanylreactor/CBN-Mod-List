@@ -75,6 +75,11 @@ A large aggregation of mods, covers everything.
 
 [Animatronics](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Animatronics)
 
+[Arsenal Breach](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Arsenal_Breach)
+
+
+
+
 
 
 
