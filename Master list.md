@@ -225,54 +225,54 @@ A large aggregation of mods, covers everything.
 
 [XEAS](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XEAS)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Xenos_sas4_weapons_pack)
+[xenos weapons pack](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Xenos_sas4_weapons_pack)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XottoCosmeticsmod)
+[xotto cosmetics](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/XottoCosmeticsmod)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Youkai_Disco)
+[Youkai Disco ](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Youkai_Disco)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ZSFixed_CDDAXP)
+[ZSFixed](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/ZSFixed_CDDAXP)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Extensions_Undead)
+[Zets hair extensions](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Extensions_Undead)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Jp_Features)
+[Zets hair jo features](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Jp_Features)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_More_Locations_KenanEdition)
+[Zets hair more locations kenan edition](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_More_Locations_KenanEdition)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_PKs_Rebalancing_KenanEdition)
+[Zets hair pks rebalancing kenan edition](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_PKs_Rebalancing_KenanEdition)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/aaa%20NO%20blacklist)
+[aaa No blacklist](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/aaa%20NO%20blacklist)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/amplified_player_features)
+[amplified player features](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/amplified_player_features)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/blazemod)
+[blazemod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/blazemod)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/cdda_wrecks)
+[cdda wrecks](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/cdda_wrecks)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/fast_healing)
+[fast healing](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/fast_healing)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/future_armory)
+[future armory](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/future_armory)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/lightsabermod)
+[lightdabermod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/lightsabermod)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/makeshift)
+[makeshift](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/makeshift)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mapspecials_demo)
+[mapspecials demo](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mapspecials_demo)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mycus)
+[mycus](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/mycus)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/necromancy)
+[necromancy](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/necromancy)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/oa_early_game_mutations_mod)
+[oa early game mutations mod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/oa_early_game_mutations_mod)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom)
+[secronom](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion)
+[secronom lore expansion](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/shrub_it_off)
+[shrub it off](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/shrub_it_off)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff)
+[vamp stuff](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff)
 
-[Nuclearuuuuuu](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff_arcana)
+[vamp stuff arcana](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/vamp_stuff_arcana)
 
 
