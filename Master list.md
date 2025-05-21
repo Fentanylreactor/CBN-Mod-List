@@ -26,3 +26,9 @@ A large aggregation of mods, covers everything.
 
 [Nuclear power plant mod with electric trains](https://github.com/OpsCoretango/Nuclear_Power_Plant_BN)
 [Mapgen] 
+
+[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) [Sound] 
+
+[Really Dark Skies](https://github.com/Zlorthishen/Really_Dark_Skies)
+[Profession] [Enemies]  [Weapons] [Armor] [Quests] 
+
