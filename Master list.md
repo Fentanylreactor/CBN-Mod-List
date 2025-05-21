@@ -32,3 +32,12 @@ A large aggregation of mods, covers everything.
 [Really Dark Skies](https://github.com/Zlorthishen/Really_Dark_Skies)
 [Profession] [Enemies]  [Weapons] [Armor] [Quests] 
 
+[Phoenix mod](https://github.com/yay855/ChorusMod) [CBM] [Profession]
+
+[Sudos mod and his add ons](https://github.com/leoCottret/cbn-leocottret-mods) [Utility] [Weapons] [Armor] 
+
+[No addictions](https://github.com/Relgar/CBN-No-Addictions) [Utility] [Difficulty] 
+
+[Thogs Vehicles](https://github.com/caninmyham/Thogs-Vehicles) [Vehicles] 
+
+
