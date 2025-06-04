@@ -12,10 +12,10 @@ A large aggregation of mods, covers everything.
 [Phoenix's magical girl/boy mod](https://github.com/yay855/Hope-in-the-Dark)
 
 [Valik's more engines and vehicle parts](https://github.com/Valikdu/Valik_Vehicle_Expansion)
-[Vehicles] [Utility] 
+10+ [Vehicle] [Utility] 
 
 [Essence 2200 and its add-ons](https://github.com/RoyalFox2140/Essence2200)
-[Magic] [Tech] [Overhaul] [Difficulty] [Enemies] [Weapons] [Armor] [Vehicles] 
+[Magic] [Tech] [Overhaul] [Difficulty] 10+ [Enemies] [Weapons] [Armor] [Vehicles] 
 
 [Project Pack Rat](https://github.com/NobleJake/ProjectPackRat)
 [Armor] [Weapons] [Tech] 
