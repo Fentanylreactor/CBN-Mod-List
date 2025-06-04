@@ -2,7 +2,7 @@
 A large aggregation of mods, covers everything.
 
 [Extra armed professions](https://github.com/Shad0wBlad321/Profession-Mod)
-[Profession]
+5+ [Profession]
 
 [Material plants mod](https://github.com/shmakota/Material-Plants)
 [Utility] 
