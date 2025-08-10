@@ -5,7 +5,7 @@ A large aggregation of mods, covers everything.
 5+ [Profession]
 
 [Material plants mod](https://github.com/shmakota/Material-Plants)
-[Utility] 
+Adds 15 different [Consumables] and [Crafting and Recipes] for plants that grow raw materials. 
 
 [The fallout mod](https://github.com/WarriorKingBob/Fallout_BrightNights/tree/main)
 
