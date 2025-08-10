@@ -17,10 +17,12 @@ A magical girl/guy mod to spice up the cataclysm, featuring a variety of [Profes
 10+ [Vehicle] [Utility] 
 
 [Essence 2200 and its add-ons](https://github.com/RoyalFox2140/Essence2200)
-[Magic] [Tech] [Overhaul] [Difficulty] 10+ [Enemies] [Weapons] [Armor] [Vehicles] 
+A massive [Overhaul] mod that aims to rebalance and reshape the experience of the game, with optional ad ons that can further increase the difficulty of the game.
+[Vehicles][Locations][Professions][Tools] [Mutations][Consumables][Crafting and Recipes][Magics][Guns][Enemies] 
 
 [Project Pack Rat](https://github.com/NobleJake/ProjectPackRat)
-[Armor] [Weapons] [Tech] 
+A sci-fi addition to the base game, with craftable mechs, power armors, a wide variety of manufacturing tools, and vehicle parts. Also includes crafting recipes for every vanilla trait (some of which might require threshold!) 
+[Vehicles][Cosmetics] [Tools] [Mutations][Crafting and Recipes][Consumables][Guns] [Armors]
 
 [Jackledead Armory](https://github.com/jackledead/jackledead_armory)
 
