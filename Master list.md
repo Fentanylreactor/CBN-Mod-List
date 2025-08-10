@@ -7,9 +7,11 @@ A large aggregation of mods, covers everything.
 [Material plants mod](https://github.com/shmakota/Material-Plants)
 Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. 
 
-[The fallout mod](https://github.com/WarriorKingBob/Fallout_BrightNights/tree/main)
+[The Fallout mod](https://github.com/WarriorKingBob/Fallout_BrightNights/tree/main)
+A mod that brings the Mojave to the cataclysm, bringing with it a wide variety of [Locations][Professions][Mutations][Crafting and Recipes][Armors]and [Enemies] 
 
-[Phoenix's magical girl/boy mod](https://github.com/yay855/Hope-in-the-Dark)
+[Hope in the Dark](https://github.com/yay855/Hope-in-the-Dark)
+A magical girl/guy mod to spice up the cataclysm, featuring a variety of [Professions][Mutations][Magics][Melee Weapons] and more. 
 
 [Valik's more engines and vehicle parts](https://github.com/Valikdu/Valik_Vehicle_Expansion)
 10+ [Vehicle] [Utility] 
