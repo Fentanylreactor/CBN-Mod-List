@@ -1,8 +1,23 @@
 [Kennan's modpack, maintained by Zlor](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack)
 A modpack containing all of the bright nights mods. See its page for relevant info. 
 
-[Material plants mod](https://github.com/shmakota/Material-Plants)
-Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. 
+
+[Noct's Cata++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod) 
+Spices up the cataclysm with super soldiers, more bionics, a lot of new weapons (both laser and ballistic) new starts and a quest line.
+[CBMs][Locations][Professions][Mutations][Crafting and Recipes][Guns][Enemies] [Armors][Melee Weapons]
+
+[Arcana and its patch mods](https://github.com/chaosvolt/cdda-arcana-mod)
+One of the three big magic mods of BN. a few dozen spells, arcane trinkets that do a wide variety of useful things, etc. Also adds points of interest to explore, new enemies and magic-tech fusion items like CBMs. Also has a martial art, some melee weapons and consumable potions. 
+[Professions][Vehicles][Locations][CBMs][Tools] [Mutations][Magics][Crafting and Recipes][Consumables][Armors][Martial Arts] [Enemies] [Melee Weapons]
+
+
+[Essence 2200 and its add-ons](https://github.com/RoyalFox2140/Essence2200)
+A massive [Overhaul] mod that aims to rebalance and reshape the experience of the game, with optional ad ons that can further increase the difficulty or change the experience of the game.
+[Vehicles][Locations][Professions][Tools] [Mutations][Consumables][Crafting and Recipes][Magics][Guns][Enemies] 
+
+[Project Pack Rat](https://github.com/NobleJake/ProjectPackRat)
+A sci-fi addition to the base game, with craftable mechs, power armors, a wide variety of manufacturing tools, and vehicle parts. Also includes crafting recipes for every vanilla trait (some of which might require threshold!) 
+[Vehicles][Cosmetics] [Tools] [Mutations][Crafting and Recipes][Consumables][Guns] [Armors]
 
 [The Fallout mod](https://github.com/WarriorKingBob/Fallout_BrightNights/tree/main)
 A mod that brings the Mojave to the cataclysm, bringing with it a wide variety of [Locations][Professions][Mutations][Crafting and Recipes][Armors]and [Enemies] 
@@ -10,51 +25,38 @@ A mod that brings the Mojave to the cataclysm, bringing with it a wide variety o
 [Hope in the Dark](https://github.com/yay855/Hope-in-the-Dark)
 A magical girl/guy mod to spice up the cataclysm, featuring a variety of [Professions][Mutations][Magics][Melee Weapons] and more. 
 
-[Valik's more engines and vehicle parts](https://github.com/Valikdu/Valik_Vehicle_Expansion)
-10+ [Vehicle] [Utility] 
-
-[Essence 2200 and its add-ons](https://github.com/RoyalFox2140/Essence2200)
-A massive [Overhaul] mod that aims to rebalance and reshape the experience of the game, with optional ad ons that can further increase the difficulty of the game.
-[Vehicles][Locations][Professions][Tools] [Mutations][Consumables][Crafting and Recipes][Magics][Guns][Enemies] 
-
-[Project Pack Rat](https://github.com/NobleJake/ProjectPackRat)
-A sci-fi addition to the base game, with craftable mechs, power armors, a wide variety of manufacturing tools, and vehicle parts. Also includes crafting recipes for every vanilla trait (some of which might require threshold!) 
-[Vehicles][Cosmetics] [Tools] [Mutations][Crafting and Recipes][Consumables][Guns] [Armors]
-
 [Jackledead Armory](https://github.com/jackledead/jackledead_armory) 
-Adds over 40 gun mods and dozens of guns. Also included in here is the goons mod, which can spawn a large variety of ranged enemies (including anti tank rifle bandits) 
+Adds over 40 gun mods and dozens of guns. Also included in here is the goons mod, which can spawn a large variety of ranged enemies (including anti tank rifle bandits!) 
 [Guns] [Enemies] 
 
 [Zombie high mod](https://github.com/thhoney08/ZombieHighMod)
-Adds a starting location with a multitude of new cosmetics, enemies and starts. 
+Adds a few starting location with a multitude of new cosmetics, enemies and professions. Also has some bionics and cosmetic parts for character generation. 
 [Enemies][Melee Weapons][Armors][Cosmetics] 
 
-[Nuclear power plant mod with electric trains](https://github.com/OpsCoretango/Nuclear_Power_Plant_BN)
-Adds a nuclear power plant with train parts. 
-[Locations]
-
-[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) [Sound] 
+[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) A [Sound] pack for bright nights. 
 
 [Really Dark Skies](https://github.com/Zlorthishen/Really_Dark_Skies)
+An Xcom inspired mod that has dozens of enemies (split into 3 factions), new starting scenarios and professions. 
 [Profession] [Enemies]  [Weapons] [Armor] [Quests] 
 
-[Phoenix mod](https://github.com/yay855/ChorusMod) [CBM] [Profession]
-
 [Sudos mod and his add ons](https://github.com/leoCottret/cbn-leocottret-mods) [Utility] [Weapons] [Armor] 
+
+[Material plants mod](https://github.com/shmakota/Material-Plants)
+Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. 
 
 [No addictions](https://github.com/Relgar/CBN-No-Addictions) [Utility] [Difficulty] 
 
 [Thogs Vehicles](https://github.com/caninmyham/Thogs-Vehicles) [Vehicles] 
+
+[Nuclear power plant mod with electric trains](https://github.com/OpsCoretango/Nuclear_Power_Plant_BN)
+Adds a nuclear power plant location with a train (that has a 1300HP electric engine).
+[Locations]
 
 [Soda mod](https://github.com/thelonestander/Lones-soda-mod)
 
 [Mountain dew](https://github.com/goldendragon900/cdda-bn-mountain-dew)
 
 [Lones Tech and Weapons](https://github.com/thelonestander/Lones-Tech-and-Weapons-mod) [Tech] [Weapons] [Enemies] 
-
-[Hope in the dark](https://github.com/10taiSenshi/Hope-in-the-Dark) [Profession]
-
-[Noct's Cata++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod) [Profession][CBM] [Mapgen] [Utility] [Enemies] [Quests] [Armor] [Weapons] [Tech] 
 
 [W40k weapons and armor](https://github.com/kingcet/WH40K-Imperial-Armoury) [Armor] [Weapons] 
 
@@ -64,9 +66,6 @@ Adds a nuclear power plant with train parts.
 
 [Stamina Regen Buff](https://github.com/chaosvolt/cdda-stamina-regen-buff)
 [Difficulty] [Overhaul] [Utility] 
-
-[Arcana and its patch mods](https://github.com/chaosvolt/cdda-arcana-mod)
-[Weapons] [Tech] [Magic] [Enemies] [Armor] [Quests] [Vehicles] [Profession][Mapgen] 
 
 [Tank Mod revived](https://github.com/chaosvolt/cdda-tankmod-revived-mod)
 [Vehicles] [Mapgen] 
@@ -347,6 +346,9 @@ Medium stuff
 [Survivor crowbar](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/surv_crowbar)
 
 [Tame bugs](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/tamebugs)
+
+[Valik's more engines and vehicle parts](https://github.com/Valikdu/Valik_Vehicle_Expansion)
+10+ [Vehicle] [Utility] 
 
 [Thermal ups](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/Medium-Maintenance-Small-Mods/thermal_ups)
 
