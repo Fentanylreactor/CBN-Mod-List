@@ -1,3 +1,5 @@
+Note: the list is actively being worked on and documented! If something is missing you can PR it or bring it up in the discord. 
+
 [Kennan's modpack, maintained by Zlor](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack)
 A modpack containing all of the bright nights mods. See its page for relevant info. 
 
