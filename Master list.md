@@ -1,8 +1,5 @@
 [Kennan's modpack, maintained by Zlor](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack)
-A large aggregation of mods, covers everything.
-
-[Extra armed professions](https://github.com/Shad0wBlad321/Profession-Mod)
-5+ [Profession]
+A modpack containing all of the bright nights mods. See its page for relevant info. 
 
 [Material plants mod](https://github.com/shmakota/Material-Plants)
 Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. 
@@ -24,12 +21,17 @@ A massive [Overhaul] mod that aims to rebalance and reshape the experience of th
 A sci-fi addition to the base game, with craftable mechs, power armors, a wide variety of manufacturing tools, and vehicle parts. Also includes crafting recipes for every vanilla trait (some of which might require threshold!) 
 [Vehicles][Cosmetics] [Tools] [Mutations][Crafting and Recipes][Consumables][Guns] [Armors]
 
-[Jackledead Armory](https://github.com/jackledead/jackledead_armory)
+[Jackledead Armory](https://github.com/jackledead/jackledead_armory) 
+Adds over 40 gun mods and dozens of guns. Also included in here is the goons mod, which can spawn a large variety of ranged enemies (including anti tank rifle bandits) 
+[Guns] [Enemies] 
 
 [Zombie high mod](https://github.com/thhoney08/ZombieHighMod)
+Adds a starting location with a multitude of new cosmetics, enemies and starts. 
+[Enemies][Melee Weapons][Armors][Cosmetics] 
 
 [Nuclear power plant mod with electric trains](https://github.com/OpsCoretango/Nuclear_Power_Plant_BN)
-[Mapgen] 
+Adds a nuclear power plant with train parts. 
+[Locations]
 
 [Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) [Sound] 
 
@@ -94,6 +96,9 @@ A sci-fi addition to the base game, with craftable mechs, power armors, a wide v
 [Basement Extension](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Basement_Extension)
 
 [BioCo](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BioCo)
+
+[Extra armed professions](https://github.com/Shad0wBlad321/Profession-Mod)
+5+ [Profession]s added to the game
 
 [Bionic Space Expander](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bionic_Space_Expander)
 
