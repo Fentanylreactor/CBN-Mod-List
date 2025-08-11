@@ -5,12 +5,12 @@ A modpack containing all of the bright nights mods. See its page for relevant in
 
 
 [Noct's Cata++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod) 
-Spices up the cataclysm with super soldiers, more bionics, a lot of new weapons (both laser and ballistic) new starts and a quest line.
-[CBMs][Locations][Professions][Mutations][Crafting and Recipes][Guns][Enemies] [Armors][Melee Weapons]
+Spices up the cataclysm with super soldiers, more bionics, a lot of new weapons (both laser and ballistic) new starts and a quest line. Also adds 2 martial arts. 
+[CBMs][Locations][Professions][Mutations][Crafting and Recipes][Guns][Enemies] [Armors][Melee Weapons][Martial Arts] 
 
 [Arcana and its patch mods](https://github.com/chaosvolt/cdda-arcana-mod)
-One of the three big magic mods of BN. a few dozen spells, arcane trinkets that do a wide variety of useful things, etc. Also adds points of interest to explore, new enemies and magic-tech fusion items like CBMs. Also has a martial art, some melee weapons and consumable potions. 
-[Professions][Vehicles][Locations][CBMs][Tools] [Mutations][Magics][Crafting and Recipes][Consumables][Armors][Martial Arts] [Enemies] [Melee Weapons]
+One of the three big magic mods of BN. a few dozen spells, arcane trinkets that do a wide variety of useful things, etc. Also adds points of interest to explore, new enemies and magic-tech fusion items like CBMs. Also has 3 martial arts, some melee weapons and consumable potions. 
+[Professions][Vehicles][Locations][CBMs][Tools][Mutations][Magics][Crafting and Recipes][Consumables][Armors][Martial Arts][Enemies][Melee Weapons]
 
 
 [Essence 2200 and its add-ons](https://github.com/RoyalFox2140/Essence2200)
