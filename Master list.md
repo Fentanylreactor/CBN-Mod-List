@@ -37,7 +37,7 @@ Adds a few starting location with a multitude of new cosmetics, enemies and prof
 
 [Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) A continuation of the original [Sound] pack for BN, with support for Essence 2200.
  
-[Otopack v2](https://github.com/NarandBD/Otopack-BN-Mk-2) A continuation of the original [Sound] pack with changes being made to the sounds. 
+[Otopack v2](https://github.com/NarandBD/Otopack-BN-Mk-2) A continuation of the original [Sound] pack with different sound effects compared to the original. 
 
 [Really Dark Skies](https://github.com/Zlorthishen/Really_Dark_Skies)
 An Xcom inspired mod that has dozens of enemies (split into 3 factions), new starting scenarios and professions. 
