@@ -48,7 +48,7 @@ An Xcom inspired mod that has dozens of enemies (split into 3 factions), new sta
 [Material plants mod](https://github.com/shmakota/Material-Plants)
 Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. 
 
-[No addictions](https://github.com/Relgar/CBN-No-Addictions) [Utility] [Difficulty] 
+[No addictions](https://github.com/Relgar/CBN-No-Addictions) [Overhaul] Removes addictions from the game. 
 
 [Thogs Vehicles](https://github.com/caninmyham/Thogs-Vehicles) [Vehicles] 
 
@@ -56,9 +56,9 @@ Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plant
 Adds a nuclear power plant location with a train (that has a 1300HP electric engine).
 [Locations]
 
-[Soda mod](https://github.com/thelonestander/Lones-soda-mod)
+[Soda mod](https://github.com/thelonestander/Lones-soda-mod) Adds a variety of sodas from real life. [Consumables]
 
-[Mountain dew](https://github.com/goldendragon900/cdda-bn-mountain-dew)
+[Mountain dew](https://github.com/goldendragon900/cdda-bn-mountain-dew) Mountain dew. [Consumables]
 
 [Lones Tech and Weapons](https://github.com/thelonestander/Lones-Tech-and-Weapons-mod) [Tech] [Weapons] [Enemies] 
 
@@ -72,7 +72,8 @@ Adds a nuclear power plant location with a train (that has a 1300HP electric eng
 [Difficulty] [Overhaul] [Utility] 
 
 [Tank Mod revived](https://github.com/chaosvolt/cdda-tankmod-revived-mod)
-[Vehicles] [Mapgen] 
+Adds a variety of new vehicles and vehicle parts, with new vehicle weapons in the form of tank guns. 
+[Vehicles] [Locations]
 
 [AV lethalized CDDA](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AV_lethalzed_cdda) 
 
@@ -99,9 +100,11 @@ Adds a nuclear power plant location with a train (that has a 1300HP electric eng
 [Basement Extension](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Basement_Extension)
 
 [BioCo](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BioCo)
+A mod that brings androids into the cataclysm, including robotic maids, cops, and a whole bunch of different robotic enemies. Also adds some high level loot places and weapons like laser lances. 
+[Tools][Locations][Guns][Armors][Melee Weapons][Enemies] 
 
 [Extra armed professions](https://github.com/Shad0wBlad321/Profession-Mod)
-5+ [Profession]s added to the game
+5+ [Profession]s added to the game, all armed. 
 
 [Bionic Space Expander](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Bionic_Space_Expander)
 
@@ -151,7 +154,8 @@ Adds a nuclear power plant location with a train (that has a 1300HP electric eng
 
 [M agents expanded](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Agents_Expanded)
 
-[M blaze mod extension](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Blazemod_Extension)
+[M blaze mod extension](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Blazemod_Extension) 
+
 
 [Modern weapons pack](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Modern_Weapons_Pack_Expanded)
 
@@ -247,7 +251,7 @@ Adds a nuclear power plant location with a train (that has a 1300HP electric eng
 
 [Zets hair extensions](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Extensions_Undead)
 
-[Zets hair jo features](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Jp_Features)
+[Zets hair jp features](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_Jp_Features)
 
 [Zets hair more locations kenan edition](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Zets-Hair_More_Locations_KenanEdition)
 
@@ -278,6 +282,8 @@ Adds a nuclear power plant location with a train (that has a 1300HP electric eng
 [oa early game mutations mod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/oa_early_game_mutations_mod)
 
 [secronom](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom)
+Adds a new threat to the cataclysm in the form of the Flesh, a dangerous entity that corrupts even zeds and turns them into its own faction. High difficulty mod, has some weapons and a superboss. 
+[Locations][Tools][CBMs][Mutations][Enemies] 
 
 [secronom lore expansion](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/secronom_lore_expansion)
 
