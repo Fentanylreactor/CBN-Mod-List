@@ -35,7 +35,7 @@ Adds over 40 gun mods and dozens of guns. Also included in here is the goons mod
 Adds a few starting location with a multitude of new cosmetics, enemies and professions. Also has some bionics and cosmetic parts for character generation. 
 [Enemies][Melee Weapons][Armors][Cosmetics] 
 
-[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) A continuation of the original [Sound] pack for BN, with support for Essence 2200.
+[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) A continuation of the original [Sound] pack for BN by RoyalFox, with support for Essence 2200 and sounds being the same as the original. 
  
 [Otopack v2](https://github.com/NarandBD/Otopack-BN-Mk-2) A continuation of the original [Sound] pack with different sound effects compared to the original. 
 
