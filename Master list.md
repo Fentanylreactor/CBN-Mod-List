@@ -35,9 +35,9 @@ Adds over 40 gun mods and dozens of guns. Also included in here is the goons mod
 Adds a few starting location with a multitude of new cosmetics, enemies and professions. Also has some bionics and cosmetic parts for character generation. 
 [Enemies][Melee Weapons][Armors][Cosmetics] 
 
-[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) A continuation of the original [Sound] pack for BN, maintained by RoyalFox. 
+[Otopack2](https://github.com/RoyalFox2140/Otopack-2-BN) A continuation of the original [Sound] pack for BN, with support for Essence 2200.
  
-[Otopack v2](https://github.com/NarandBD/Otopack-BN-Mk-2) A continuation of the original [Sound] pack for BN, recently updated by NarandDB. 
+[Otopack v2](https://github.com/NarandBD/Otopack-BN-Mk-2) A continuation of the original [Sound] pack with changes being made to the sounds. 
 
 [Really Dark Skies](https://github.com/Zlorthishen/Really_Dark_Skies)
 An Xcom inspired mod that has dozens of enemies (split into 3 factions), new starting scenarios and professions. 
