@@ -72,7 +72,7 @@ Adds a nuclear power plant location with a train (that has a 1300HP electric eng
 [Difficulty] [Overhaul] [Utility] 
 
 [Tank Mod revived](https://github.com/chaosvolt/cdda-tankmod-revived-mod)
-Adds a variety of new vehicles and vehicle parts, with new vehicle weapons in the form of tank guns. 
+Adds a variety of new vehicles and vehicle parts, and also includes one enemy (That may or may not be similar to the beagle) 
 [Vehicles] [Locations]
 
 [AV lethalized CDDA](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/AV_lethalzed_cdda) 
@@ -90,12 +90,15 @@ Adds a variety of new vehicles and vehicle parts, with new vehicle weapons in th
 [Autodoc Harmless Perfect](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Autodoc_Harmless_Perfectr_resilience_version)
 
 [BL9 100% resilience version](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-100%25_monster_resilience_version)
+BL9 is a resident evil inspired addition to the cataclysm, bringing with it a large amount of weapons (both guns and melee), unique locations to explore, a large amount of enemies, a unique trader NPC. Thr other two entries are their tougher versions with tankier monsters. 
+[Locations][Tools] [Crafting and Recipes][Consumables][Armors][Guns] [Enemies] [Melee Weapons]
 
 [BL9 140% resilience](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-140%25_monster_resilience_version)
 
 [175](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/BL9-175%25_monster_resilience_version)
 
 [Batlle Maid Redux](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Battle_Maid_Redux)
+Shoggoth maid. Milk Production Serum. (The mod is very horny, beware!) 
 
 [Basement Extension](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Basement_Extension)
 
@@ -155,7 +158,11 @@ A mod that brings androids into the cataclysm, including robotic maids, cops, an
 [M agents expanded](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Agents_Expanded)
 
 [M blaze mod extension](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/M_Blazemod_Extension) 
+This and the main mod underneath add a variety of new vehicle parts. Turrets, frames, huge storage portals, etc. The meat of the mod is the blob parts. Grow your car. Make it turn into a tiny cube because its foldable. Blob guns. 
+[Vehicles][Crafting and Recipes][Guns] 
 
+[blazemod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/blazemod)
+See above. 
 
 [Modern weapons pack](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/Modern_Weapons_Pack_Expanded)
 
@@ -260,8 +267,6 @@ A mod that brings androids into the cataclysm, including robotic maids, cops, an
 [aaa No blacklist](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/aaa%20NO%20blacklist)
 
 [amplified player features](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/amplified_player_features)
-
-[blazemod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/blazemod)
 
 [cdda wrecks](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/tree/master/Kenan-BrightNights-Structured-Modpack/High-Maintenance-Huge-Mods/cdda_wrecks)
 
