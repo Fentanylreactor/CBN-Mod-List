@@ -50,7 +50,7 @@ Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plant
 
 [No addictions](https://github.com/Relgar/CBN-No-Addictions) [Overhaul] Removes addictions from the game. 
 
-[Thogs Vehicles](https://github.com/WarriorKingBob/Thogs_Vehicles_Standalone_) [Vehicles] 
+[Thogs Vehicles](https://github.com/WarriorKingBob/Thogs_Vehicles_Standalone) [Vehicles] 
 
 [Nuclear power plant mod with electric trains](https://github.com/OpsCoretango/Nuclear_Power_Plant_BN)
 Adds a nuclear power plant location with a train (that has a 1300HP electric engine).
