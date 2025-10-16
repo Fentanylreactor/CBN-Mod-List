@@ -21,6 +21,9 @@ A massive [Overhaul] mod that aims to rebalance and reshape the experience of th
 A sci-fi addition to the base game, with craftable mechs, power armors, a wide variety of manufacturing tools, and vehicle parts. Also includes crafting recipes for every vanilla trait (some of which might require threshold!) 
 [Vehicles][Cosmetics] [Tools] [Mutations][Crafting and Recipes][Consumables][Guns] [Armors]
 
+[More Survival Tools Extra](https://github.com/chaosvolt/MST_Extra_Mod) 
+Way more survival tools and recipes. Also requirement for Essence 2200.
+
 [The Fallout mod](https://github.com/WarriorKingBob/Fallout_BrightNights/tree/main)
 A mod that brings the Mojave to the cataclysm, bringing with it a wide variety of [Locations][Professions][Mutations][Crafting and Recipes][Armors]and [Enemies] 
 
