@@ -49,7 +49,7 @@ An Xcom inspired mod that has dozens of enemies (split into 3 factions), new sta
 [Sudos mod and his add ons](https://github.com/leoCottret/cbn-leocottret-mods) [Utility] [Weapons] [Armor] 
 
 [Material plants mod](https://github.com/shmakota/Material-Plants)
-Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. 
+Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. For example : steel, silver and gold. 
 
 [No addictions](https://github.com/Relgar/CBN-No-Addictions) [Overhaul] Removes addictions from the game. 
 
