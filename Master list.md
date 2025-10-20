@@ -1,4 +1,4 @@
-Note: the list is actively being worked on and documented! If something is missing you can PR it or bring it up in the discord. 
+Note: the list is actively being worked on and documented! If something is missing you can PR it or bring it up in the discord by tagging me! (Fentreactor) 
 
 [Kennan's modpack, maintained by Zlor](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack)
 A modpack containing all of the bright nights mods. See its page for relevant info. 
@@ -52,6 +52,9 @@ An Xcom inspired mod that has dozens of enemies (split into 3 factions), new sta
 Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plants that grow raw materials. For example : steel, silver and gold. 
 
 [No addictions](https://github.com/Relgar/CBN-No-Addictions) [Overhaul] Removes addictions from the game. 
+
+[Wild Weapons](https://github.com/NappingOcean/Wield_Wild_Weapons) 
+Adds six animal inspired martial arts. [Martial Arts] 
 
 [Thogs Vehicles](https://github.com/WarriorKingBob/Thogs_Vehicles_Standalone) [Vehicles] 
 
