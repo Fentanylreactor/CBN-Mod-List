@@ -54,7 +54,7 @@ Adds 15 different plant [Consumables] and their [Crafting and Recipes] for plant
 [No addictions](https://github.com/Relgar/CBN-No-Addictions) [Overhaul] Removes addictions from the game. 
 
 [Wild Weapons](https://github.com/NappingOcean/Wield_Wild_Weapons) 
-Adds six animal inspired martial arts. [Martial Arts] 
+Adds six animal inspired martial arts, obtained by finding their respective statues, either randomly or bу crafting the pointer to them. [Martial Arts] 
 
 [Thogs Vehicles](https://github.com/WarriorKingBob/Thogs_Vehicles_Standalone) [Vehicles] 
 
